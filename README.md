@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##What It Does
+
+This Web App Uses the fetch API to fetch the Latest and juciest dank memes from reddit and facebook(to be implemented soon).It Uses the concept of Http requests and Ajax calls. This is just a demo version and many changes will be made overtime.
+
+### Changes To Be Made
+
+1.) Add a Spinner While its loading.
+2.) Add Facebook as a boxText to get memes (Was not able to find a way to do so)
+3.) Refurbish the code(i.e. each time function is called requests are made to the same site better to store it)
+4.) Make It more dynamic for user InterFace (add the number of memes to be loaded i.e. currently 5 at time for it to be quick)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
